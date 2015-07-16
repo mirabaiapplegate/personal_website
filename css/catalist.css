@@ -1,0 +1,9 @@
+body, html {
+  color: #000;
+  background-color: #FEFCEA;
+}
+
+.coral-image {
+  border: solid 3px;
+  width: 100%;
+}
