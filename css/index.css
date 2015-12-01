@@ -92,6 +92,7 @@ p {
   color: #3a5068;
   margin-top: 25px;
   height: 415px;
+  margin-bottom: 75px;
 }
 
 .bio-lg {
@@ -153,6 +154,10 @@ p {
   margin-top: 15px;
   margin-left: 0;
   width: 100%;
+}
+
+.kaixo-xs {
+  margin-top: 78px;
 }
 
 .top-image {
